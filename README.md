@@ -5,7 +5,8 @@ Interactive Netflix Content Analytics Dashboard built using **Microsoft Power BI
 ---
 
 # Dashboard Preview
-![netflix-content-analytics-dashboard](https://github.com/user-attachments/assets/a9f30708-1ca1-445d-85ba-02eaed85953f)
+<img width="1260" height="806" alt="image" src="https://github.com/user-attachments/assets/5d5d88b7-3bd3-47ec-a71f-d785ca7e9b89" />
+
 
 ---
 
